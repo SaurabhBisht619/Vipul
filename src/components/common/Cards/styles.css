@@ -1,0 +1,30 @@
+.wrapper{
+    display: flex;
+    width: 280px;
+    gap:4px 30%;
+    padding: 10px 15px;
+    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: black;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+}
+
+.secondHalf{
+    display: flex;
+    flex-direction: column;
+    gap: 30px 2%;
+}
+
+.title{
+    color: white;
+}
+
+.link{
+    color: white;
+}
